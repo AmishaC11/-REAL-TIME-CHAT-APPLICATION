@@ -56,3 +56,4 @@ Implementing real-time data broadcasting and room-based communication.
 
 #OUTPUT
 
+<img width="1920" height="1032" alt="Image" src="https://github.com/user-attachments/assets/d398891b-7e9b-4a4e-9d2c-983fab794fb2" />
